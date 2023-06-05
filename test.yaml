@@ -1,281 +1,202 @@
-proxies:
-  - name: 🇺🇲 美国凤凰城1号-0.01x
-    server: 163.123.192.57
-    port: 443
-    type: trojan
-    password: f8570585-4cfa-42ba-ba35-7ea41a69edc1
-    sni: 18-140-66-207.nhost.00cdn.com
-    udp: true
-  - name: 🇺🇲 美国凤凰城2号-0.01x
-    server: 163.123.192.58
-    port: 443
-    type: trojan
-    password: f8570585-4cfa-42ba-ba35-7ea41a69edc1
-    sni: 18-140-66-207.nhost.00cdn.com
-    udp: true
-  - name: 🇺🇲 美国凤凰城3号-0.01x
-    server: 163.123.192.59
-    port: 443
-    type: trojan
-    password: f8570585-4cfa-42ba-ba35-7ea41a69edc1
-    sni: 18-140-66-207.nhost.00cdn.com
-    udp: true
-  - name: 🇺🇲 美国凤凰城4号-0.01x
-    server: 163.123.192.60
-    port: 443
-    type: trojan
-    password: f8570585-4cfa-42ba-ba35-7ea41a69edc1
-    sni: 18-140-66-207.nhost.00cdn.com
-    udp: true
-  - name: 🇺🇲 美国凤凰城5号-0.01x
-    server: 148.59.74.52
-    port: 443
-    type: trojan
-    password: f8570585-4cfa-42ba-ba35-7ea41a69edc1
-    sni: 18-140-66-207.nhost.00cdn.com
-    udp: true
-  - name: 🇯🇵 AWS | JP | IPLC专线1号
-    server: pqawsjp1.gsjc.cfd
-    port: 443
-    type: trojan
-    password: f8570585-4cfa-42ba-ba35-7ea41a69edc1
-    sni: 18-140-66-207.nhost.00cdn.com
-    udp: true
-  - name: 🇯🇵 AWS | JP | IPLC专线2号
-    server: pqawsjp2.gsjc.cfd
-    port: 443
-    type: trojan
-    password: f8570585-4cfa-42ba-ba35-7ea41a69edc1
-    sni: 18-140-66-207.nhost.00cdn.com
-    udp: true
-  - name: 🇯🇵 AWS | JP | IPLC专线3号
-    server: pqawsjp3.gsjc.cfd
-    port: 443
-    type: trojan
-    password: f8570585-4cfa-42ba-ba35-7ea41a69edc1
-    sni: 18-140-66-207.nhost.00cdn.com
-    udp: true
-  - name: 🇸🇬 AWS | SG | IPLC专线1号
-    server: pqawssg1.gsjc.cfd
-    port: 443
-    type: trojan
-    password: f8570585-4cfa-42ba-ba35-7ea41a69edc1
-    sni: 18-140-66-207.nhost.00cdn.com
-    udp: true
-  - name: 🇸🇬 AWS | SG | IPLC专线2号
-    server: pqawssg2.gsjc.cfd
-    port: 443
-    type: trojan
-    password: f8570585-4cfa-42ba-ba35-7ea41a69edc1
-    sni: 18-140-66-207.nhost.00cdn.com
-    udp: true
-  - name: 🇯🇵 AZ | JP | IPLC专线1号
-    server: azjp1.gsjc.cfd
-    port: 443
-    type: trojan
-    password: f8570585-4cfa-42ba-ba35-7ea41a69edc1
-    sni: 18-140-66-207.nhost.00cdn.com
-    udp: true
-  - name: 🇯🇵 AZ | JP | IPLC专线2号
-    server: azjp2.gsjc.cfd
-    port: 443
-    type: trojan
-    password: f8570585-4cfa-42ba-ba35-7ea41a69edc1
-    sni: 18-140-66-207.nhost.00cdn.com
-    udp: true
-  - name: 🇸🇬 AZ | SG | IPLC专线1号
-    server: azsg1.gsjc.cfd
-    port: 443
-    type: trojan
-    password: f8570585-4cfa-42ba-ba35-7ea41a69edc1
-    sni: 18-140-66-207.nhost.00cdn.com
-    udp: true
-  - name: 🇸🇬 AZ | SG | IPLC专线2号
-    server: azsg2.gsjc.cfd
-    port: 443
-    type: trojan
-    password: f8570585-4cfa-42ba-ba35-7ea41a69edc1
-    sni: 18-140-66-207.nhost.00cdn.com
-    udp: true
-  - name: 🇩🇪 德国
-    server: 217.79.184.22
-    port: 443
-    type: trojan
-    password: f8570585-4cfa-42ba-ba35-7ea41a69edc1
-    sni: 18-140-66-207.nhost.00cdn.com
-    udp: true
-  - name: 🇩🇪 德国2
-    server: 217.79.184.76
-    port: 443
-    type: trojan
-    password: f8570585-4cfa-42ba-ba35-7ea41a69edc1
-    sni: 18-140-66-207.nhost.00cdn.com
-    udp: true
-  - name: 🇩🇪 德国3
-    server: 84.252.121.218
-    port: 443
-    type: trojan
-    password: f8570585-4cfa-42ba-ba35-7ea41a69edc1
-    sni: 18-140-66-207.nhost.00cdn.com
-    udp: true
-  - name: 🇺🇲 美国圣何塞 | 允许长期跑满带宽-0.1x
-    server: 74.217.179.36
-    port: 443
-    type: trojan
-    password: f8570585-4cfa-42ba-ba35-7ea41a69edc1
-    sni: 18-140-66-207.nhost.00cdn.com
-    udp: true
-  - name: 🇨🇳 台湾
-    server: pq-hinet.gsjc.cfd
-    port: 443
-    type: trojan
-    password: f8570585-4cfa-42ba-ba35-7ea41a69edc1
-    sni: 18-140-66-207.nhost.00cdn.com
-    udp: true
-  - name: 🇨🇳 台湾2
-    server: pq-hinet2.gsjc.cfd
-    port: 443
-    type: trojan
-    password: f8570585-4cfa-42ba-ba35-7ea41a69edc1
-    sni: 18-140-66-207.nhost.00cdn.com
-    udp: true
-  - name: 🇯🇵 日本 | 中国移动网优化-1号
-    server: zfc.windowsupdate1.com
-    port: 443
-    type: vmess
-    uuid: f8570585-4cfa-42ba-ba35-7ea41a69edc1
-    alterId: 0
-    cipher: auto
-    tls: true
-    network: ws
-    ws-opts:
-      path: /pq/jp1?ed=2048
-      headers:
-        Host: jp1.pqjc.buzz
-    udp: true
-  - name: 🇯🇵 日本 | 中国移动网优化-2号
-    server: zfc.windowsupdate1.com
-    port: 443
-    type: vmess
-    uuid: f8570585-4cfa-42ba-ba35-7ea41a69edc1
-    alterId: 0
-    cipher: auto
-    tls: true
-    network: ws
-    ws-opts:
-      path: /pq/jp2?ed=2048
-      headers:
-        Host: jp2.pqjc.buzz
-    udp: true
-  - name: 🇯🇵 日本 | 中国移动网优化-3号
-    server: zfc.windowsupdate1.com
-    port: 443
-    type: vmess
-    uuid: f8570585-4cfa-42ba-ba35-7ea41a69edc1
-    alterId: 0
-    cipher: auto
-    tls: true
-    network: ws
-    ws-opts:
-      path: /pq/jp3?ed=2048
-      headers:
-        Host: jp3.pqjc.buzz
-    udp: true
-  - name: 🇸🇬 新加坡 | 中国移动网优化-1号
-    server: zfc.windowsupdate1.com
-    port: 443
-    type: vmess
-    uuid: f8570585-4cfa-42ba-ba35-7ea41a69edc1
-    alterId: 0
-    cipher: auto
-    tls: true
-    network: ws
-    ws-opts:
-      path: /pq/sg1?ed=2048
-      headers:
-        Host: sg1.pqjc.buzz
-    udp: true
-  - name: 🇸🇬 新加坡 | 中国移动网优化-2号
-    server: zfc.windowsupdate1.com
-    port: 443
-    type: vmess
-    uuid: f8570585-4cfa-42ba-ba35-7ea41a69edc1
-    alterId: 0
-    cipher: auto
-    tls: true
-    network: ws
-    ws-opts:
-      path: /pq/sg2?ed=2048
-      headers:
-        Host: sg2.pqjc.buzz
-    udp: true
-  - name: 🇺🇲 美国凤凰城1号-0.1x
-    server: zfc.windowsupdate1.com
-    port: 443
-    type: vmess
-    uuid: f8570585-4cfa-42ba-ba35-7ea41a69edc1
-    alterId: 0
-    cipher: auto
-    tls: true
-    network: ws
-    ws-opts:
-      path: /pq/usfh1?ed=2048
-      headers:
-        Host: usfh1.pqjc.buzz
-    udp: true
-  - name: 🇺🇲 美国凤凰城2号-0.1x
-    server: zfc.windowsupdate1.com
-    port: 443
-    type: vmess
-    uuid: f8570585-4cfa-42ba-ba35-7ea41a69edc1
-    alterId: 0
-    cipher: auto
-    tls: true
-    network: ws
-    ws-opts:
-      path: /pq/usfh2?ed=2048
-      headers:
-        Host: usfh2.pqjc.buzz
-    udp: true
-  - name: 🇺🇲 美国凤凰城3号-0.1x
-    server: zfc.windowsupdate1.com
-    port: 443
-    type: vmess
-    uuid: f8570585-4cfa-42ba-ba35-7ea41a69edc1
-    alterId: 0
-    cipher: auto
-    tls: true
-    network: ws
-    ws-opts:
-      path: /pq/usfh3?ed=2048
-      headers:
-        Host: usfh3.pqjc.buzz
-    udp: true
-  - name: 🇸🇬 新加坡 | 三网低延迟 | IPLC专线
-    server: 162.159.128.36
-    port: 443
-    type: vmess
-    uuid: f8570585-4cfa-42ba-ba35-7ea41a69edc1
-    alterId: 0
-    cipher: auto
-    tls: true
-    network: ws
-    ws-opts:
-      path: /pq/sg1?ed=2048
-      headers:
-        Host: sg1.pqjc.buzz
-    udp: true
-  - name: 🇫🇷 法国 | FR | BT、PT专用｜0.01x
-    server: zfc.windowsupdate1.com
-    port: 443
-    type: vmess
-    uuid: f8570585-4cfa-42ba-ba35-7ea41a69edc1
-    alterId: 0
-    cipher: auto
-    tls: true
-    network: ws
-    ws-opts:
-      path: /pq/fr1?ed=2048
-      headers:
-        Host: fr1.pqjc.buzz
-    udp: true
+mixed-port: 7890
+allow-lan: true
+mode: rule
+log-level: info
+ipv6: false
+#dns: #DNS 设置一般无需打开，如果你坚持想用，请确保你知道在做什么
+  #enable: true
+  #listen: 0.0.0.0:53
+  #ipv6: false
+  #default-nameserver:
+    #- 223.5.5.5
+    #- 119.29.29.29
+  #enhanced-mode: redir-host
+  #nameserver:
+    #- https://doh.pub/dns-query
+    #- https://dns.alidns.com/dns-query
+  #fallback:
+    #- https://1.1.1.1/dns-query
+    #- https://dns.google/dns-query
+  #fallback-filter:
+    #geoip: true
+    #geoip-code: CN
+    #ipcidr:
+      #- 240.0.0.0/4
+
+proxy-providers:
+  myproxy:
+    type: http
+    url: https://a.ppconverter.eu.org/api/convert?url=https%3A%2F%2Fpqjc.site%2Fapi%2Fv1%2Fclient%2Fsubscribe%3Ftoken%3D2a07deed699a160eabdaca539e050d14&target=clash #粘贴 Proxy Provider Converter 提供的链接
+    interval: 172800
+    path: ./myproxy.yaml
+    health-check:
+      enable: true
+      interval: 600
+      # lazy: true
+      url: http://www.gstatic.com/generate_204
+
+proxy-groups:
+  - name: "手动选择"
+    type: select
+    proxies:
+      - 自动选择
+    use:
+      - myproxy
+      
+  - name: 自动选择
+    type: url-test
+    use:
+      - myproxy
+    url: http://www.gstatic.com/generate_204
+    interval: 600
+    
+  - name: "广告拦截"
+    type: select
+    proxies:
+      - REJECT
+      - DIRECT
+      - 手动选择
+           
+  - name: "苹果服务"
+    type: select
+    proxies:
+      - DIRECT
+      - 手动选择
+      
+  - name: "电报服务"
+    type: select
+    proxies:
+      - 手动选择
+      
+  - name: "YouTube"
+    type: select
+    proxies:
+      - 手动选择
+      
+  - name: "全球流媒体"
+    type: select
+    proxies:
+      - 手动选择
+      
+  - name: "Steam"
+    type: select
+    proxies:
+      - DIRECT
+      - 手动选择
+      
+  - name: "兜底分流"
+    type: select
+    proxies:
+      - 手动选择
+      - DIRECT
+
+rule-providers:
+  reject:
+    type: http
+    behavior: domain
+    url: "https://ghproxy.com/https://raw.githubusercontent.com/Loyalsoldier/clash-rules/release/reject.txt"
+    path: ./ruleset/reject.yaml
+    interval: 86400
+
+  icloud:
+    type: http
+    behavior: domain
+    url: "https://ghproxy.com/https://raw.githubusercontent.com/Loyalsoldier/clash-rules/release/icloud.txt"
+    path: ./ruleset/icloud.yaml
+    interval: 86400
+
+  apple:
+    type: http
+    behavior: domain
+    url: "https://ghproxy.com/https://raw.githubusercontent.com/Loyalsoldier/clash-rules/release/apple.txt"
+    path: ./ruleset/apple.yaml
+    interval: 86400
+
+  streaming:
+    type: http
+    behavior: classical
+    url: "https://ghproxy.com/https://raw.githubusercontent.com/DivineEngine/Profiles/master/Clash/RuleSet/StreamingMedia/Streaming.yaml"
+    path: ./ruleset/streaming.yaml
+    interval: 86400
+  
+  steam:
+    type: http
+    behavior: classical
+    url: 'https://ghproxy.com/https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Steam/Steam.yaml'
+    path: ./ruleset/steam.yaml
+    interval: 86400
+
+  steamCN:
+    type: http
+    behavior: classical
+    url: 'https://ghproxy.com/https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/SteamCN/SteamCN.yaml'
+    path: ./ruleset/steamCN.yaml
+    interval: 86400
+    
+  youtube:
+    type: http
+    behavior: classical
+    url: 'https://ghproxy.com/https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/YouTube/YouTube.yaml'
+    path: ./ruleset/youtube.yaml
+    interval: 86400
+
+  proxy:
+    type: http
+    behavior: domain
+    url: "https://ghproxy.com/https://raw.githubusercontent.com/Loyalsoldier/clash-rules/release/proxy.txt"
+    path: ./ruleset/proxy.yaml
+    interval: 86400
+
+  direct:
+    type: http
+    behavior: domain
+    url: "https://ghproxy.com/https://raw.githubusercontent.com/Loyalsoldier/clash-rules/release/direct.txt"
+    path: ./ruleset/direct.yaml
+    interval: 86400
+
+  private:
+    type: http
+    behavior: domain
+    url: "https://ghproxy.com/https://raw.githubusercontent.com/Loyalsoldier/clash-rules/release/private.txt"
+    path: ./ruleset/private.yaml
+    interval: 86400
+
+  telegramcidr:
+    type: http
+    behavior: ipcidr
+    url: "https://ghproxy.com/https://raw.githubusercontent.com/Loyalsoldier/clash-rules/release/telegramcidr.txt"
+    path: ./ruleset/telegramcidr.yaml
+    interval: 86400
+
+  lancidr:
+    type: http
+    behavior: ipcidr
+    url: "https://ghproxy.com/https://raw.githubusercontent.com/Loyalsoldier/clash-rules/release/lancidr.txt"
+    path: ./ruleset/lancidr.yaml
+    interval: 86400
+
+  applications:
+    type: http
+    behavior: classical
+    url: "https://ghproxy.com/https://raw.githubusercontent.com/Loyalsoldier/clash-rules/release/applications.txt"
+    path: ./ruleset/applications.yaml
+    interval: 86400
+
+rules:
+  - RULE-SET,applications,DIRECT
+  - DOMAIN,clash.razord.top,DIRECT
+  - DOMAIN,yacd.haishan.me,DIRECT
+  - RULE-SET,private,DIRECT
+  - RULE-SET,reject,广告拦截
+  - RULE-SET,icloud,苹果服务
+  - RULE-SET,apple,苹果服务
+  - RULE-SET,youtube,YouTube
+  - RULE-SET,streaming,全球流媒体
+  - RULE-SET,steamCN,DIRECT
+  - RULE-SET,steam,Steam
+  - RULE-SET,proxy,手动选择
+  - RULE-SET,direct,DIRECT
+  - RULE-SET,telegramcidr,电报服务
+  - RULE-SET,lancidr,DIRECT
+  - GEOIP,CN,DIRECT
+  - MATCH,兜底分流

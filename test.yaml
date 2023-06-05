@@ -1,0 +1,281 @@
+proxies:
+  - name: 🇺🇲 美国凤凰城1号-0.01x
+    server: 163.123.192.57
+    port: 443
+    type: trojan
+    password: f8570585-4cfa-42ba-ba35-7ea41a69edc1
+    sni: 18-140-66-207.nhost.00cdn.com
+    udp: true
+  - name: 🇺🇲 美国凤凰城2号-0.01x
+    server: 163.123.192.58
+    port: 443
+    type: trojan
+    password: f8570585-4cfa-42ba-ba35-7ea41a69edc1
+    sni: 18-140-66-207.nhost.00cdn.com
+    udp: true
+  - name: 🇺🇲 美国凤凰城3号-0.01x
+    server: 163.123.192.59
+    port: 443
+    type: trojan
+    password: f8570585-4cfa-42ba-ba35-7ea41a69edc1
+    sni: 18-140-66-207.nhost.00cdn.com
+    udp: true
+  - name: 🇺🇲 美国凤凰城4号-0.01x
+    server: 163.123.192.60
+    port: 443
+    type: trojan
+    password: f8570585-4cfa-42ba-ba35-7ea41a69edc1
+    sni: 18-140-66-207.nhost.00cdn.com
+    udp: true
+  - name: 🇺🇲 美国凤凰城5号-0.01x
+    server: 148.59.74.52
+    port: 443
+    type: trojan
+    password: f8570585-4cfa-42ba-ba35-7ea41a69edc1
+    sni: 18-140-66-207.nhost.00cdn.com
+    udp: true
+  - name: 🇯🇵 AWS | JP | IPLC专线1号
+    server: pqawsjp1.gsjc.cfd
+    port: 443
+    type: trojan
+    password: f8570585-4cfa-42ba-ba35-7ea41a69edc1
+    sni: 18-140-66-207.nhost.00cdn.com
+    udp: true
+  - name: 🇯🇵 AWS | JP | IPLC专线2号
+    server: pqawsjp2.gsjc.cfd
+    port: 443
+    type: trojan
+    password: f8570585-4cfa-42ba-ba35-7ea41a69edc1
+    sni: 18-140-66-207.nhost.00cdn.com
+    udp: true
+  - name: 🇯🇵 AWS | JP | IPLC专线3号
+    server: pqawsjp3.gsjc.cfd
+    port: 443
+    type: trojan
+    password: f8570585-4cfa-42ba-ba35-7ea41a69edc1
+    sni: 18-140-66-207.nhost.00cdn.com
+    udp: true
+  - name: 🇸🇬 AWS | SG | IPLC专线1号
+    server: pqawssg1.gsjc.cfd
+    port: 443
+    type: trojan
+    password: f8570585-4cfa-42ba-ba35-7ea41a69edc1
+    sni: 18-140-66-207.nhost.00cdn.com
+    udp: true
+  - name: 🇸🇬 AWS | SG | IPLC专线2号
+    server: pqawssg2.gsjc.cfd
+    port: 443
+    type: trojan
+    password: f8570585-4cfa-42ba-ba35-7ea41a69edc1
+    sni: 18-140-66-207.nhost.00cdn.com
+    udp: true
+  - name: 🇯🇵 AZ | JP | IPLC专线1号
+    server: azjp1.gsjc.cfd
+    port: 443
+    type: trojan
+    password: f8570585-4cfa-42ba-ba35-7ea41a69edc1
+    sni: 18-140-66-207.nhost.00cdn.com
+    udp: true
+  - name: 🇯🇵 AZ | JP | IPLC专线2号
+    server: azjp2.gsjc.cfd
+    port: 443
+    type: trojan
+    password: f8570585-4cfa-42ba-ba35-7ea41a69edc1
+    sni: 18-140-66-207.nhost.00cdn.com
+    udp: true
+  - name: 🇸🇬 AZ | SG | IPLC专线1号
+    server: azsg1.gsjc.cfd
+    port: 443
+    type: trojan
+    password: f8570585-4cfa-42ba-ba35-7ea41a69edc1
+    sni: 18-140-66-207.nhost.00cdn.com
+    udp: true
+  - name: 🇸🇬 AZ | SG | IPLC专线2号
+    server: azsg2.gsjc.cfd
+    port: 443
+    type: trojan
+    password: f8570585-4cfa-42ba-ba35-7ea41a69edc1
+    sni: 18-140-66-207.nhost.00cdn.com
+    udp: true
+  - name: 🇩🇪 德国
+    server: 217.79.184.22
+    port: 443
+    type: trojan
+    password: f8570585-4cfa-42ba-ba35-7ea41a69edc1
+    sni: 18-140-66-207.nhost.00cdn.com
+    udp: true
+  - name: 🇩🇪 德国2
+    server: 217.79.184.76
+    port: 443
+    type: trojan
+    password: f8570585-4cfa-42ba-ba35-7ea41a69edc1
+    sni: 18-140-66-207.nhost.00cdn.com
+    udp: true
+  - name: 🇩🇪 德国3
+    server: 84.252.121.218
+    port: 443
+    type: trojan
+    password: f8570585-4cfa-42ba-ba35-7ea41a69edc1
+    sni: 18-140-66-207.nhost.00cdn.com
+    udp: true
+  - name: 🇺🇲 美国圣何塞 | 允许长期跑满带宽-0.1x
+    server: 74.217.179.36
+    port: 443
+    type: trojan
+    password: f8570585-4cfa-42ba-ba35-7ea41a69edc1
+    sni: 18-140-66-207.nhost.00cdn.com
+    udp: true
+  - name: 🇨🇳 台湾
+    server: pq-hinet.gsjc.cfd
+    port: 443
+    type: trojan
+    password: f8570585-4cfa-42ba-ba35-7ea41a69edc1
+    sni: 18-140-66-207.nhost.00cdn.com
+    udp: true
+  - name: 🇨🇳 台湾2
+    server: pq-hinet2.gsjc.cfd
+    port: 443
+    type: trojan
+    password: f8570585-4cfa-42ba-ba35-7ea41a69edc1
+    sni: 18-140-66-207.nhost.00cdn.com
+    udp: true
+  - name: 🇯🇵 日本 | 中国移动网优化-1号
+    server: zfc.windowsupdate1.com
+    port: 443
+    type: vmess
+    uuid: f8570585-4cfa-42ba-ba35-7ea41a69edc1
+    alterId: 0
+    cipher: auto
+    tls: true
+    network: ws
+    ws-opts:
+      path: /pq/jp1?ed=2048
+      headers:
+        Host: jp1.pqjc.buzz
+    udp: true
+  - name: 🇯🇵 日本 | 中国移动网优化-2号
+    server: zfc.windowsupdate1.com
+    port: 443
+    type: vmess
+    uuid: f8570585-4cfa-42ba-ba35-7ea41a69edc1
+    alterId: 0
+    cipher: auto
+    tls: true
+    network: ws
+    ws-opts:
+      path: /pq/jp2?ed=2048
+      headers:
+        Host: jp2.pqjc.buzz
+    udp: true
+  - name: 🇯🇵 日本 | 中国移动网优化-3号
+    server: zfc.windowsupdate1.com
+    port: 443
+    type: vmess
+    uuid: f8570585-4cfa-42ba-ba35-7ea41a69edc1
+    alterId: 0
+    cipher: auto
+    tls: true
+    network: ws
+    ws-opts:
+      path: /pq/jp3?ed=2048
+      headers:
+        Host: jp3.pqjc.buzz
+    udp: true
+  - name: 🇸🇬 新加坡 | 中国移动网优化-1号
+    server: zfc.windowsupdate1.com
+    port: 443
+    type: vmess
+    uuid: f8570585-4cfa-42ba-ba35-7ea41a69edc1
+    alterId: 0
+    cipher: auto
+    tls: true
+    network: ws
+    ws-opts:
+      path: /pq/sg1?ed=2048
+      headers:
+        Host: sg1.pqjc.buzz
+    udp: true
+  - name: 🇸🇬 新加坡 | 中国移动网优化-2号
+    server: zfc.windowsupdate1.com
+    port: 443
+    type: vmess
+    uuid: f8570585-4cfa-42ba-ba35-7ea41a69edc1
+    alterId: 0
+    cipher: auto
+    tls: true
+    network: ws
+    ws-opts:
+      path: /pq/sg2?ed=2048
+      headers:
+        Host: sg2.pqjc.buzz
+    udp: true
+  - name: 🇺🇲 美国凤凰城1号-0.1x
+    server: zfc.windowsupdate1.com
+    port: 443
+    type: vmess
+    uuid: f8570585-4cfa-42ba-ba35-7ea41a69edc1
+    alterId: 0
+    cipher: auto
+    tls: true
+    network: ws
+    ws-opts:
+      path: /pq/usfh1?ed=2048
+      headers:
+        Host: usfh1.pqjc.buzz
+    udp: true
+  - name: 🇺🇲 美国凤凰城2号-0.1x
+    server: zfc.windowsupdate1.com
+    port: 443
+    type: vmess
+    uuid: f8570585-4cfa-42ba-ba35-7ea41a69edc1
+    alterId: 0
+    cipher: auto
+    tls: true
+    network: ws
+    ws-opts:
+      path: /pq/usfh2?ed=2048
+      headers:
+        Host: usfh2.pqjc.buzz
+    udp: true
+  - name: 🇺🇲 美国凤凰城3号-0.1x
+    server: zfc.windowsupdate1.com
+    port: 443
+    type: vmess
+    uuid: f8570585-4cfa-42ba-ba35-7ea41a69edc1
+    alterId: 0
+    cipher: auto
+    tls: true
+    network: ws
+    ws-opts:
+      path: /pq/usfh3?ed=2048
+      headers:
+        Host: usfh3.pqjc.buzz
+    udp: true
+  - name: 🇸🇬 新加坡 | 三网低延迟 | IPLC专线
+    server: 162.159.128.36
+    port: 443
+    type: vmess
+    uuid: f8570585-4cfa-42ba-ba35-7ea41a69edc1
+    alterId: 0
+    cipher: auto
+    tls: true
+    network: ws
+    ws-opts:
+      path: /pq/sg1?ed=2048
+      headers:
+        Host: sg1.pqjc.buzz
+    udp: true
+  - name: 🇫🇷 法国 | FR | BT、PT专用｜0.01x
+    server: zfc.windowsupdate1.com
+    port: 443
+    type: vmess
+    uuid: f8570585-4cfa-42ba-ba35-7ea41a69edc1
+    alterId: 0
+    cipher: auto
+    tls: true
+    network: ws
+    ws-opts:
+      path: /pq/fr1?ed=2048
+      headers:
+        Host: fr1.pqjc.buzz
+    udp: true

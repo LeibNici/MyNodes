@@ -1,0 +1,8 @@
+proxies:
+  - name: 🎵 解锁节点1
+    server: 158.101.31.205
+    port: 8080
+    type: http
+    username: ""
+    password: ""
+    tls: false

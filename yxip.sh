@@ -1,6 +1,9 @@
 #!/bin/sh
 ISP=ChinaUnion
 
+script_dir="$(dirname "$0")"
+cd ${script_dir}
+
 echo "优选ip 开始"
 ./CloudflareST -dn 10 -url https://cloudflare.cdn.openbsd.org/pub/OpenBSD/7.3/src.tar.gz
 

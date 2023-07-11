@@ -26,6 +26,13 @@ tail -n +2 result.csv | while IFS=',' read -r col1 col2 col3 col4 col5 col6; do
   fi
 done
 
+echo "获取最新仓库文件"
+git pull
+
 echo "合并最新节点文件"
 > AllNodes.list
 cat China*.list >> AllNodes.list
+
+echo "提交节点文件"
+git add AllNodes.list China*.list
+git push

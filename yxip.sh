@@ -40,3 +40,5 @@ echo "提交节点文件"
 git add AllNodes.list China*.list
 git commit -m "update ${ISP} Nodes"
 git push
+
+echo "本次测速结束 $(date '+%Y%m%d%H%M')"

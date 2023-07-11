@@ -35,4 +35,5 @@ cat China*.list >> AllNodes.list
 
 echo "提交节点文件"
 git add AllNodes.list China*.list
+git commit -m "update ${ISP} Nodes"
 git push

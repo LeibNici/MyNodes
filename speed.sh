@@ -1,7 +1,7 @@
 #!/bin/bash
 export LANG=zh_CN.UTF-8
 auth_email="852098505@qq.com"    #你的CloudFlare注册账户邮箱
-auth_key="4e554b08c5d7067c38279f470e4780c21899c"   #你的CloudFlare账户key,位置在域名概述页面点击右下角获取api key。
+auth_key="1231231234444e554b0880c21899c"   #你的CloudFlare账户key,位置在域名概述页面点击右下角获取api key。
 zone_name="cmhub.tk"     #你的主域名
 record_name="cu"    #自动更新的二级域名前缀,例如cloudflare的cdn用cl，gcore的cdn用gcore，后面是数字，程序会自动添加。二级域名需要已经在域名管理网站配置完成，视频教程可以参考：https://www.youtube.com/channel/UCfSvDIQ8D_Zz62oAd5mcDDg
 record_count=5 #二级域名个数，例如配置5个，则域名分别是cl1、cl2、cl3、cl4、cl5.   后面的信息均不需要修改，让他自动运行就好了。

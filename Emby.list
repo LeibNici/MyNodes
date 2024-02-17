@@ -86,6 +86,7 @@ DOMAIN,hk.jmsooo.com
 DOMAIN,sg.jmsooo.com
 
 # > 流媒体MisakaF服务器
+DOMAIN,emby.aca.best
 DOMAIN-SUFFIX,stream1.misakaf.org
 DOMAIN-SUFFIX,stream2.misakaf.org
 DOMAIN-SUFFIX,stream3.misakaf.org

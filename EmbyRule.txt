@@ -1,0 +1,6 @@
+payload:
+  - 'emby.aca.best'
+  - 'stream1.misakaf.org'
+  - 'stream2.misakaf.org'
+  - 'stream3.misakaf.org'
+  - '+.xmsl.org'

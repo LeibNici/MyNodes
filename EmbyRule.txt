@@ -4,3 +4,4 @@ payload:
   - 'stream2.misakaf.org'
   - 'stream3.misakaf.org'
   - '+.xmsl.org'
+  - '+.loseremby.org'

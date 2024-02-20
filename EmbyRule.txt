@@ -1,7 +1,10 @@
 payload:
+  # aca机场服
   - 'emby.aca.best'
+  # misakaf公益服
   - 'stream1.misakaf.org'
   - 'stream2.misakaf.org'
   - 'stream3.misakaf.org'
+  # 垃圾公益服
   - '+.xmsl.org'
   - '+.loseremby.org'
